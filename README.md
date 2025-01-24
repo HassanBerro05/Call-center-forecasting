@@ -17,8 +17,8 @@ This project forecasts the monthly call volume for Farmers' Financial Company's 
 4. **Analysis**: Compared the effectiveness of different models in forecasting the monthly calls in 2022.
 
 ## Files
-- **/data**: Contains the dataset for the analysis.
-- **/docs**: Contains the project report and a summary of the project.
+- **Forecasting Data**: Contains the dataset for the analysis.
+- **docs**: Contains the project report and a summary of the project.
 ## Conclusion
 The analysis will provide insights into whether additional customer service staff are required to handle peak call volumes in 2022.
 
