@@ -18,7 +18,7 @@ This project forecasts the monthly call volume for Farmers' Financial Company's 
 
 ## Files
 - **Forecasting Data**: Contains the dataset for the analysis.
-- **docs**: Contains the project report and a summary of the project.
+- **Forecasting Project Report**: Contains the project report and a summary of the project.
 ## Conclusion
 The analysis will provide insights into whether additional customer service staff are required to handle peak call volumes in 2022.
 
