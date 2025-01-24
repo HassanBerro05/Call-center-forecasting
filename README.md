@@ -1,4 +1,4 @@
-# Bob Hill's Call Center Forecasting
+# Call Center Forecasting
 
 ## Overview
 This project forecasts the monthly call volume for Farmers' Financial Company's customer service center. The goal is to assess whether additional customer service staff are needed in 2022 based on historical call data.
